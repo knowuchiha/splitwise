@@ -2,13 +2,11 @@
 
 This Application is been build using react, for global state management context+hooks is used
 
-Initial splitwise Hosted on :https://quizzical-torvalds-ddc88c.netlify.com/
-
-Improved splitwise Hosted on: https://epic-blackwell-385e66.netlify.com/
+Hosted on: https://sleepy-spence-f3cdee.netlify.app/
 
 In order to start ,
 
-   1.First add yourgroupname  ,click on Add Group/Remove in navbar
+   1.First add your groupname  , click on Add Group/Remove in navbar
    
    2.To add the amount , who has to give and who will recieve and the groupname, click on Add amount in navbar
    
